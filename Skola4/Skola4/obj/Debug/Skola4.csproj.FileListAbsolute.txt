@@ -1,0 +1,13 @@
+G:\Dokumenty\Skola4\Skola4\bin\Debug\Skola4.exe.config
+G:\Dokumenty\Skola4\Skola4\bin\Debug\Skola4.exe
+G:\Dokumenty\Skola4\Skola4\bin\Debug\Skola4.pdb
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.csprojAssemblyReference.cache
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.Form1.resources
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.Properties.Resources.resources
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.csproj.GenerateResource.cache
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.exe
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.pdb
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.Form2.resources
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.Form3.resources
+G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.Form4.resources
