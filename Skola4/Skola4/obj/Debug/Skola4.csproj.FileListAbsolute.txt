@@ -11,3 +11,16 @@ G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.pdb
 G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.Form2.resources
 G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.Form3.resources
 G:\Dokumenty\Skola4\Skola4\obj\Debug\Skola4.Form4.resources
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\bin\Debug\Skola4.exe.config
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\bin\Debug\Skola4.exe
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\bin\Debug\Skola4.pdb
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.csprojAssemblyReference.cache
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.Form1.resources
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.Form2.resources
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.Form3.resources
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.Form4.resources
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.Properties.Resources.resources
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.csproj.GenerateResource.cache
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.exe
+D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.pdb

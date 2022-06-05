@@ -17,40 +17,22 @@ namespace Skola4
             InitializeComponent();
         }
 
-        bool ObsahujeSlovo(string vstup, out string nejV, out string nejM)
+        private void button1_Click_1(object sender, EventArgs e)
         {
-            nejV = "";
-            nejM = "";
-            vstup = vstup.Trim();
-            if (vstup.Length < 1)
-                return false;
-            while (vstup.Contains("  "))
-                vstup = vstup.Replace("  ", " ");
-            string[] pole = vstup.Split(' ');
-
-            int predchoziV = 0, predchoziM = 10000;
-            foreach(string s in pole)
-            {
-                if(s.Length > predchoziV)
-                {
-                    nejV = s;
-                    predchoziV = s.Length;
-                }
-                if (s.Length < predchoziM)
-                {
-                    nejM = s;
-                    predchoziM = s.Length;
-                }
-            }
-
-            return true;
+            Form f = new Form2();
+            f.Show();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            string nejV, nejM;
-            bool vysl = ObsahujeSlovo(textBox1.Text, out nejV, out nejM);
-            label1.Text = String.Format("{0}bsahuje slova. {1}",vysl ? "O":"Neo",vysl?"Nejdelší slovo: "+nejV+". Nejkratší slovo: "+nejM+".":"");
+            Form f = new Form3();
+            f.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form f = new Form4();
+            f.Show();
         }
     }
 }

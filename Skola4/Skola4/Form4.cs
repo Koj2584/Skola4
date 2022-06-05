@@ -65,21 +65,46 @@ namespace Skola4
 
         int[] Rozklad(int a)
         {
-            int pole = new int();
-            int i = 2;
-            while(JePrvocislo(a))
+            int p = a;
+            int[] pole = new int[0];
+            int i = 1;
+            while(!JePrvocislo(a)&&i<=a)
             {
-                if (JePrvocislo(i)&&a%i==0)
+                if(JePrvocislo(i)&&a%i==0)
                 {
-                    a = a / i;
+                    while(a % i == 0)
+                    {
+                        a = a / i;
+                        pole = pole.Concat(new int[] { i }).ToArray();
+                    }
                 }
                 i++;
             }
+            if(JePrvocislo(a) || p == 1)
+                pole = pole.Concat(new int[] { a }).ToArray();
+            return pole;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(NSN((int)numericUpDown1.Value, (int)numericUpDown2.Value));
+            label1.Text = "NSN: " + NSN((int)numericUpDown1.Value, (int)numericUpDown2.Value);
+            label2.Text = "NSD: " + NSD((int)numericUpDown1.Value, (int)numericUpDown2.Value);
+
+            int[] pole = Rozklad((int)numericUpDown1.Value);
+            int[] pole2 = Rozklad((int)numericUpDown2.Value);
+
+            listBox1.Items.Clear();
+            listBox1.Items.Add("Rozklad:");
+            foreach(int i in pole)
+            {
+                listBox1.Items.Add(i);
+            }
+            listBox2.Items.Clear();
+            listBox2.Items.Add("Rozklad:");
+            foreach (int i in pole2)
+            {
+                listBox2.Items.Add(i);
+            }
         }
     }
 }
