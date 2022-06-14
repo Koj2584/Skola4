@@ -19,7 +19,7 @@ namespace Skola4
 
         bool JeAlfanum(string vstup, out int mala, out int velka, out int jinaci)
         {
-            string alfanum = "0123456789qwertzuiopasdfghjklyxcvbnmůúěščřžýáíéóQWERTZUIOPASDFGHJKLYXCVBNMŮÚĚŠČŘŽÝÁÍÉÓ ";
+            string alfanum = "0123456789qwertzuiopasdfghjklyxcvbnmůúěščřžýáíéóQWERTZUIOPASDFGHJKLYXCVBNMŮÚĚŠČŘŽÝÁÍÉÓ";
             string vel = "QWERTZUIOPASDFGHJKLYXCVBNMŮÚĚŠČŘŽÝÁÍÉÓ";
             string mal = "qwertzuiopasdfghjklyxcvbnmůúěščřžýáíéó";
             bool vysledek = true;

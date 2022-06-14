@@ -19,19 +19,19 @@ namespace Skola4
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            Form f = new Form2();
+            Form2 f = new Form2();
             f.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form f = new Form3();
+            Form3 f = new Form3();
             f.Show();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form f = new Form4();
+            Form4 f = new Form4();
             f.Show();
         }
     }

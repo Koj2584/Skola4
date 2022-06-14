@@ -24,3 +24,16 @@ D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.csproj.GenerateRe
 D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.csproj.CoreCompileInputs.cache
 D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.exe
 D:\Koj\Programování\C#\Skola4\Skola4\Skola4\obj\Debug\Skola4.pdb
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\bin\Debug\Skola4.exe.config
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\bin\Debug\Skola4.exe
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\bin\Debug\Skola4.pdb
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.csprojAssemblyReference.cache
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.Form1.resources
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.Form2.resources
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.Form3.resources
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.Form4.resources
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.Properties.Resources.resources
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.csproj.GenerateResource.cache
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.csproj.CoreCompileInputs.cache
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.exe
+C:\Users\vomelaj.05\Source\Repos\Skola4\Skola4\Skola4\obj\Debug\Skola4.pdb
